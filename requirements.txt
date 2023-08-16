@@ -1,0 +1,7 @@
+tkinter
+os
+requests
+platform
+json
+psutil
+Pillow
