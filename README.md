@@ -1,6 +1,6 @@
 _____________________________________________
-# Oboy-grabber
-A discord grabber made in python
+# Oboy-Info stealer
+A discord info stealer
 ______________________________________________
 This is just a beta version, Next uppdate soon
 ______________________________________________
